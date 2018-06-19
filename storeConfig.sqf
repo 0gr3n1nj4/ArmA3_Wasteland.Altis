@@ -170,10 +170,10 @@ rifleArray = compileFinal str
 	["M4A1 Block II (Woodland/SOP Mod Stock)", "rhs_weap_m4a1_blockII_KAC_wd", 250],
 	
 	["HK416 D10", "rhs_weap_hk416d10", 200],
-    ["HK416 D10 (M320)", "rhs_weap_hk416d10_m320", 350],
-    ["HK416 D10 (SOP Mod Stock)", "rhs_weap_hk416d10_LMT", 250],
-    ["HK416 D10 (SOP Mod Stock/Desert)", "rhs_weap_hk416d10_LMT_d", 250],
-    ["HK416 D10 (SOP Mod Stock/Woodland)", "rhs_weap_hk416d10_LMT_wd", 250],
+    	["HK416 D10 (M320)", "rhs_weap_hk416d10_m320", 350],
+    	["HK416 D10 (SOP Mod Stock)", "rhs_weap_hk416d10_LMT", 250],
+   	["HK416 D10 (SOP Mod Stock/Desert)", "rhs_weap_hk416d10_LMT_d", 250],
+        ["HK416 D10 (SOP Mod Stock/Woodland)", "rhs_weap_hk416d10_LMT_wd", 250],
 	
 	["HK416 D14.5", "rhs_weap_hk416d145", 200],
 	["HK416 D14.5 (Desert Grass)", "rhs_weap_hk416d145_d", 200],
@@ -264,53 +264,53 @@ rifleArray = compileFinal str
 	["AK-74M (Desert/B13)", "rhs_weap_ak74m_desert_npz", 200],
 	["AK-74M (GP-25)", "rhs_weap_ak74m_gp25", 300],
 	["AK-74M (GP-25/B13)", "rhs_weap_ak74m_gp25_npz", 300],
-    ["AK-74M (GP-25/Plum)", "rhs_weap_ak74m_fullplum_gp25", 300],
-    ["AK-74M (GP-25/Plum/B13)", "rhs_weap_ak74m_fullplum_gp25_npz", 300],
-    ["AK-74M (Plum Mag.)", "rhs_weap_ak74m_plummag", 200],
-    ["AK-74M (Plum Mag./B13)", "rhs_weap_ak74m_plummag_npz", 200],
-    ["AK-74M (Plum)", "rhs_weap_ak74m_fullplum", 175],
-    ["AK-74M (Plum/B13)", "rhs_weap_ak74m_fullplum_npz", 175],
-    ["AK-74M (Zenitco)", "rhs_weap_ak74m_zenitco01", 250],
-    ["AK-74M (Zenitco/B-33)", "rhs_weap_ak74m_zenitco01_b33", 250],
+    	["AK-74M (GP-25/Plum)", "rhs_weap_ak74m_fullplum_gp25", 300],
+    	["AK-74M (GP-25/Plum/B13)", "rhs_weap_ak74m_fullplum_gp25_npz", 300],
+    	["AK-74M (Plum Mag.)", "rhs_weap_ak74m_plummag", 200],
+    	["AK-74M (Plum Mag./B13)", "rhs_weap_ak74m_plummag_npz", 200],
+    	["AK-74M (Plum)", "rhs_weap_ak74m_fullplum", 175],
+    	["AK-74M (Plum/B13)", "rhs_weap_ak74m_fullplum_npz", 175],
+    	["AK-74M (Zenitco)", "rhs_weap_ak74m_zenitco01", 250],
+    	["AK-74M (Zenitco/B-33)", "rhs_weap_ak74m_zenitco01_b33", 250],
 
-    ["AK-74MR (UUK)", "rhs_weap_ak74mr", 200],
-    ["AK-74MR (UUK/GP-25)", "rhs_weap_ak74mr_gp25", 300],
+    	["AK-74MR (UUK)", "rhs_weap_ak74mr", 200],
+    	["AK-74MR (UUK/GP-25)", "rhs_weap_ak74mr_gp25", 300],
 
-    ["AK-74N", "rhs_weap_ak74n", 200],
-    ["AK-74N (NPZ)", "rhs_weap_ak74n_npz", 200],
-    ["AK-74N (GP-25)", "rhs_weap_ak74n_gp25", 300],
-    ["AK-74N (GP-25/NPZ)", "rhs_weap_ak74n_gp25_npz", 300],
-    ["AK-74N (Plum)", "rhs_weap_ak74n_2", 175],
-    ["AK-74N (Plum/B13)", "rhs_weap_ak74n_2_npz", 175],
-    ["AK-74N (Plum/GP-25)", "rhs_weap_ak74n_2_gp25", 300],
-    ["AK-74N (Plum/GP-25/B13)", "rhs_weap_ak74n_2_gp25_npz", 300],
+    	["AK-74N", "rhs_weap_ak74n", 200],
+    	["AK-74N (NPZ)", "rhs_weap_ak74n_npz", 200],
+    	["AK-74N (GP-25)", "rhs_weap_ak74n_gp25", 300],
+    	["AK-74N (GP-25/NPZ)", "rhs_weap_ak74n_gp25_npz", 300],
+    	["AK-74N (Plum)", "rhs_weap_ak74n_2", 175],
+    	["AK-74N (Plum/B13)", "rhs_weap_ak74n_2_npz", 175],
+    	["AK-74N (Plum/GP-25)", "rhs_weap_ak74n_2_gp25", 300],
+    	["AK-74N (Plum/GP-25/B13)", "rhs_weap_ak74n_2_gp25_npz", 300],
 
-    ["AKM", "rhs_weap_akm", 200],
-    ["AKM (GP-25", "rhs_weap_akm_gp25", 300],
-    ["AKM (Zenitco/B-33", "rhs_weap_akm_zenitco_b33", 250],
-    ["AKMN", "rhs_weap_akmn", 200],
-    ["AKMN (NPZ)", "rhs_weap_akmn_npz", 200],
-    ["AKMN (GP-25)", "rhs_weap_akmn_gp25", 300],
-    ["AKMN (GP-25/NPZ)", "rhs_weap_akmn_gp25_npz", 300],
+    	["AKM", "rhs_weap_akm", 200],
+    	["AKM (GP-25", "rhs_weap_akm_gp25", 300],
+    	["AKM (Zenitco/B-33", "rhs_weap_akm_zenitco_b33", 250],
+    	["AKMN", "rhs_weap_akmn", 200],
+    	["AKMN (NPZ)", "rhs_weap_akmn_npz", 200],
+    	["AKMN (GP-25)", "rhs_weap_akmn_gp25", 300],
+    	["AKMN (GP-25/NPZ)", "rhs_weap_akmn_gp25_npz", 300],
 
-    ["AKMS", "rhs_weap_akms", 200],
-    ["AKMS (GP-25)", "rhs_weap_akms_gp25", 300],
+    	["AKMS", "rhs_weap_akms", 200],
+    	["AKMS (GP-25)", "rhs_weap_akms_gp25", 300],
 
-    ["AKS-74", "rhs_weap_aks74", 200],
-    ["AKS-74 (GP-25)", "rhs_weap_aks74_gp25", 300],
-    ["AKS-74 (Plum)", "rhs_weap_aks74_2", 200],
+    	["AKS-74", "rhs_weap_aks74", 200],
+    	["AKS-74 (GP-25)", "rhs_weap_aks74_gp25", 300],
+    	["AKS-74 (Plum)", "rhs_weap_aks74_2", 200],
 
-    ["AKS-74N", "rhs_weap_aks74n", 200],
-    ["AKS-74N (GP-25)", "rhs_weap_aks74n_gp25", 300],
-    ["AKS-74N (Plum)", "rhs_weap_aks74n_2", 200],
-    ["AKS-74N (NPZ)", "rhs_weap_aks74n_npz", 200],
-    ["AKS-74N (Plum/B-13)", "rhs_weap_aks74n_2_npz", 200],
-    ["AKS-74N (GP-25/NPZ)", "rhs_weap_aks74n_gp25_npz", 300],
+    	["AKS-74N", "rhs_weap_aks74n", 200],
+    	["AKS-74N (GP-25)", "rhs_weap_aks74n_gp25", 300],
+    	["AKS-74N (Plum)", "rhs_weap_aks74n_2", 200],
+    	["AKS-74N (NPZ)", "rhs_weap_aks74n_npz", 200],
+    	["AKS-74N (Plum/B-13)", "rhs_weap_aks74n_2_npz", 200],
+    	["AKS-74N (GP-25/NPZ)", "rhs_weap_aks74n_gp25_npz", 300],
 
-    ["AS Val", "rhs_weap_asval", 200],
-    ["AS Val (GRIP)", "rhs_weap_asval_grip", 200],
-    ["AS Val (NPV)", "rhs_weap_asval_npz", 200],
-    ["AS Val (GRIP/NPZ)", "rhs_weap_asval_grip_npz", 200],
+    	["AS Val", "rhs_weap_asval", 200],
+   	["AS Val (GRIP)", "rhs_weap_asval_grip", 200],
+    	["AS Val (NPV)", "rhs_weap_asval_npz", 200],
+    	["AS Val (GRIP/NPZ)", "rhs_weap_asval_grip_npz", 200],
 
 	// Marksman Rifles
 	["MXM Rifle", "arifle_MXM_F", 300],
@@ -350,9 +350,9 @@ rifleArray = compileFinal str
 	["SVDS (NPZ)", "rhs_weap_svds_npz", 450],
 
 	["VSS Vintorez", "rhs_weap_vss", 450],
-    ["VSS Vintorez (GRIP)", "rhs_weap_vss_grip", 450],
-    ["VSS Vintorez (NPZ)", "rhs_weap_vss_npz", 450],
-    ["VSS Vintorez (GRIP/NPZ)", "rhs_weap_vss_grip_npz", 450],
+    	["VSS Vintorez (GRIP)", "rhs_weap_vss_grip", 450],
+    	["VSS Vintorez (NPZ)", "rhs_weap_vss_npz", 450],
+    	["VSS Vintorez (GRIP/NPZ)", "rhs_weap_vss_grip_npz", 450],
 
 
 	// DLC
@@ -730,22 +730,22 @@ ammoArray = compileFinal str
 
 	// RHSAFRF Magazines
 	["57-N-231 30Rnd AK Mag", "rhs_30Rnd_762x39mm", 20],
-    ["57-N-231P 30Rnd AK Mag", "rhs_30Rnd_762x39mm_tracer", 20],
-    ["57-N-231(89) 30Rnd AK Mag", "rhs_30Rnd_762x39mm_89", 20],
-    ["57-N-231U 30Rnd AK Mag (Subsonic)", "rhs_30Rnd_762x39mm_U", 20],
+    	["57-N-231P 30Rnd AK Mag", "rhs_30Rnd_762x39mm_tracer", 20],
+   	["57-N-231(89) 30Rnd AK Mag", "rhs_30Rnd_762x39mm_89", 20],
+    	["57-N-231U 30Rnd AK Mag (Subsonic)", "rhs_30Rnd_762x39mm_U", 20],
 
-    ["7N6 30Rnd AK-74 Mag", "rhs_30Rnd_545x39_7N6_AK", 20],
-    ["7N6 30Rnd AK-74 Mag (No Tracers)", "rhs_30Rnd_545x39_AK_no_tracers", 20],
-    ["7N6M 30Rnd AK-74 Mag", "rhs_B_545x39_7N6_Ball", 30],
-    ["7N10 30Rnd AK-74 Mag", "rhs_30Rnd_545x39_7N10_AK", 20],
-    ["7N22 30Rnd AK-74 Mag", "rhs_30Rnd_545x39_7N22_AK", 20],
-    ["7T3M 30Rnd AK-74 Mag", "rhs_30Rnd_762x39mm_tracer", 20],
-    ["7U1 30Rnd AK-74 Mag (Subsonic)", "rhs_30Rnd_545x39_7U1_AK", 20],
-    ["7N6 45Rnd RPK-74 Mag", "rhs_45Rnd_545X39_7N6_AK", 30],
-    ["7N10 45Rnd RPK-74 Mag", "rhs_45Rnd_545X39_7N10_AK", 30],
-    ["7N22 45Rnd RPK-74 Mag", "rhs_45Rnd_545x39_7N22_AK", 30],
-    ["7T3M 45Rnd RPK-74 Mag", "rhs_45Rnd_762x39mm_tracer", 30],
-    ["7U1 45Rnd RPK-74 Mag", "rhs_45Rnd_545x39_7U1_AK", 30],
+    	["7N6 30Rnd AK-74 Mag", "rhs_30Rnd_545x39_7N6_AK", 20],
+    	["7N6 30Rnd AK-74 Mag (No Tracers)", "rhs_30Rnd_545x39_AK_no_tracers", 20],
+    	["7N6M 30Rnd AK-74 Mag", "rhs_B_545x39_7N6_Ball", 30],
+    	["7N10 30Rnd AK-74 Mag", "rhs_30Rnd_545x39_7N10_AK", 20],
+    	["7N22 30Rnd AK-74 Mag", "rhs_30Rnd_545x39_7N22_AK", 20],
+    	["7T3M 30Rnd AK-74 Mag", "rhs_30Rnd_762x39mm_tracer", 20],
+    	["7U1 30Rnd AK-74 Mag (Subsonic)", "rhs_30Rnd_545x39_7U1_AK", 20],
+    	["7N6 45Rnd RPK-74 Mag", "rhs_45Rnd_545X39_7N6_AK", 30],
+    	["7N10 45Rnd RPK-74 Mag", "rhs_45Rnd_545X39_7N10_AK", 30],
+    	["7N22 45Rnd RPK-74 Mag", "rhs_45Rnd_545x39_7N22_AK", 30],
+    	["7T3M 45Rnd RPK-74 Mag", "rhs_45Rnd_762x39mm_tracer", 30],
+    	["7U1 45Rnd RPK-74 Mag", "rhs_45Rnd_545x39_7U1_AK", 30],
 
 	["SP-5 20Rnd AS Val Mag", "rhs_20rnd_9x39mm_SP5", 40],
 	["SP-6 20Rnd AS Val Mag", "rhs_20rnd_9x39mm_SP6", 40],
@@ -796,10 +796,10 @@ ammoArray = compileFinal str
 	["9K38", "rhs_mag_9k38_rocket", 400],
 	["RPG-26", "rhs_rpg26_mag", 400],
 	["PG-7V", "rhs_rpg7_PG7V_mag", 400],
-    ["PG-7VL", "rhs_rpg7_PG7VL_mag", 400],
-    ["PG-7VR", "rhs_rpg7_PG7VR_mag", 400],
-    ["OG-7V", "rhs_rpg7_OG7V_mag", 400],
-    ["TBG-7V", "rhs_rpg7_TBG7V_mag ", 400],
+    	["PG-7VL", "rhs_rpg7_PG7VL_mag", 400],
+    	["PG-7VR", "rhs_rpg7_PG7VR_mag", 400],
+    	["OG-7V", "rhs_rpg7_OG7V_mag", 400],
+    	["TBG-7V", "rhs_rpg7_TBG7V_mag ", 400],
 	["Type-69 Airburst", "rhs_rpg7_type69_airburst_mag", 500],
 	["RShG-2", "rhs_rshg2_mag", 400],
 	
@@ -822,13 +822,13 @@ ammoArray = compileFinal str
 	["Javelin AT", "rhs_fgm148_magazine_AT", 400],
 
 	// RHSUSAF Handgun Magazines
-    ["9mm Mk243 JHP 17Rnd Glock", "rhsusf_mag_17Rnd_9x19_JHP", 10],
-    ["9mm M882 FMJ 17Rnd Glock", "rhsusf_mag_17Rnd_9x19_FMJ", 20],
+    	["9mm Mk243 JHP 17Rnd Glock", "rhsusf_mag_17Rnd_9x19_JHP", 10],
+    	["9mm M882 FMJ 17Rnd Glock", "rhsusf_mag_17Rnd_9x19_FMJ", 20],
 
-    ["45ACP HP 7Rnd M1911A1", "rhsusf_mag_7x45acp_MHP", 10],
+   	["45ACP HP 7Rnd M1911A1", "rhsusf_mag_7x45acp_MHP", 10],
 
-    ["9mm Mk243 JHP 15Rnd M9", "rhsusf_mag_15Rnd_9x19_JHP", 10],
-    ["9mm M882 FMJ 15Rnd M9", "rhsusf_mag_15Rnd_9x19_FMJ", 20],
+    	["9mm Mk243 JHP 15Rnd M9", "rhsusf_mag_15Rnd_9x19_JHP", 10],
+    	["9mm M882 FMJ 15Rnd M9", "rhsusf_mag_15Rnd_9x19_FMJ", 20],
 	
 	// RHSGREF Handgun Magazines
 	["20rnd 7.65x17mm mag", "rhsgref_20rnd_765x17_vz61", 20],
@@ -836,19 +836,19 @@ ammoArray = compileFinal str
 
 	["7.62x25mm 8Rnd TT-33", "rhs_mag_762x25_8", 20],
 
-    // RHSUSAF Grenade Launcher Rounds
-    ["M441 HE Grenade Round", "rhs_mag_M441_HE", 125],
-    ["M433 HEDP Grenade Round", "rhs_mag_M433_HEDP", 125],
-    ["M397 HET Grenade Round", "rhs_mag_M397_HET", 125],
-    ["GL Stun Grenade Round", "rhs_mag_m4009", 125],
-    ["M576 Buckshot Round", "rhs_mag_m576", 125],
-    ["M585 White Flare Round", "rhs_mag_M585_white", 25],
-    ["M661 Green Flare Round", "rhs_mag_M661_green", 25],
-    ["M662 Red Flare Round", "rhs_mag_M662_red", 25],
-    ["M713 Red Smoke Round", "rhs_mag_M713_red", 50],
-    ["M714 White Smoke Round", "rhs_mag_M714_white", 50],
-    ["M715 Green Smoke Round", "rhs_mag_M715_green", 50],
-    ["M716 Yellow Smoke Round", "rhs_mag_M716_yellow", 50],
+    	// RHSUSAF Grenade Launcher Rounds
+    	["M441 HE Grenade Round", "rhs_mag_M441_HE", 125],
+    	["M433 HEDP Grenade Round", "rhs_mag_M433_HEDP", 125],
+    	["M397 HET Grenade Round", "rhs_mag_M397_HET", 125],
+   	["GL Stun Grenade Round", "rhs_mag_m4009", 125],
+    	["M576 Buckshot Round", "rhs_mag_m576", 125],
+    	["M585 White Flare Round", "rhs_mag_M585_white", 25],
+    	["M661 Green Flare Round", "rhs_mag_M661_green", 25],
+    	["M662 Red Flare Round", "rhs_mag_M662_red", 25],
+    	["M713 Red Smoke Round", "rhs_mag_M713_red", 50],
+    	["M714 White Smoke Round", "rhs_mag_M714_white", 50],
+    	["M715 Green Smoke Round", "rhs_mag_M715_green", 50],
+    	["M716 Yellow Smoke Round", "rhs_mag_M716_yellow", 50],
 	
 	// RHSUGREF Grenade Launcher Rounds
 	["VOG 25", "rhs_VOG25", 50],
@@ -866,21 +866,21 @@ ammoArray = compileFinal str
 	["VG-40MD (Red)", "rhs_VG40MD_red", 50],
 	["GDM-40 (white)", "rhs_GDM40", 50],
 
-    // RHS Shotgun Ammo
-    ["1Rnd 00 Buckshot", "rhsgref_1Rnd_00Buck", 5],
-    ["1Rnd 12g Slug", "rhsgref_1Rnd_Slug", 10],
+    	// RHS Shotgun Ammo
+    	["1Rnd 00 Buckshot", "rhsgref_1Rnd_00Buck", 5],
+    	["1Rnd 12g Slug", "rhsgref_1Rnd_Slug", 10],
 
-    ["5Rnd .00 Buckshot", "rhsusf_5Rnd_00Buck", 15],
-    ["5Rnd 12g Doomsday Buckshot", "rhsusf_5Rnd_doomsday_Buck", 30],
-    ["5Rnd 12g Slug", "rhsusf_5Rnd_Slug", 20],
-    ["5Rnd 12g HE-EP", "rhsusf_5Rnd_HE", 25],
-    ["5Rnd 12g FRAG", "rhsusf_5Rnd_FRAG", 25],
+    	["5Rnd .00 Buckshot", "rhsusf_5Rnd_00Buck", 15],
+    	["5Rnd 12g Doomsday Buckshot", "rhsusf_5Rnd_doomsday_Buck", 30],
+    	["5Rnd 12g Slug", "rhsusf_5Rnd_Slug", 20],
+    	["5Rnd 12g HE-EP", "rhsusf_5Rnd_HE", 25],
+    	["5Rnd 12g FRAG", "rhsusf_5Rnd_FRAG", 25],
 
-    ["8Rnd .00 Buckshot", "rhsusf_8Rnd_00Buck", 20],
-    ["8Rnd 12g Doomsday Buckshot", "rhsusf_8Rnd_doomsday_Buck", 35],
-    ["8Rnd 12g Slug", "rhsusf_8Rnd_Slug", 25],
-    ["8Rnd 12g HE-EP", "rhsusf_8Rnd_HE", 30],
-    ["8Rnd 12g FRAG", "rhsusf_8Rnd_FRAG", 30]
+    	["8Rnd .00 Buckshot", "rhsusf_8Rnd_00Buck", 20],
+    	["8Rnd 12g Doomsday Buckshot", "rhsusf_8Rnd_doomsday_Buck", 35],
+    	["8Rnd 12g Slug", "rhsusf_8Rnd_Slug", 25],
+    	["8Rnd 12g HE-EP", "rhsusf_8Rnd_HE", 30],
+    	["8Rnd 12g FRAG", "rhsusf_8Rnd_FRAG", 30]
 ];
 
 //Gun Store item List
@@ -965,7 +965,7 @@ accessoriesArray = compileFinal str
 	["Nightstalker", "optic_Nightstalker", 7500, "item"],
 	
 	// RHSUSAF Long Range Scopes
-    ["Mk. 4 M5 (Desert)", "rhsusf_acc_LEUPOLDMK4_2_d", 250, "item"]
+    	["Mk. 4 M5 (Desert)", "rhsusf_acc_LEUPOLDMK4_2_d", 250, "item"]
 ];
 
 // If commented, means the color/camo isn't implemented or is a duplicate of another hat
